@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4ec023b5-7103-4ec2-9c84-d8f544d38cc5">
+  <name>ИнформационнаяБазаEDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Информационная база EDT</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="cfbabfb0-50d3-471c-b829-5a202a550931"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="401fb76a-9083-43c9-bac0-71400b2d3404"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="edbf127b-988c-4ce0-bcb2-72d9f6a2c716"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="bc987fc0-88c5-4395-8985-642b990a5869"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="1c1f1add-a583-480e-80d2-49340ee50b85"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="ad5ff52f-d81f-442f-a614-90d8caaa503b"/>
+  <namePrefix></namePrefix>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor></vendor>
+  <version></version>
+  <updateCatalogAddress></updateCatalogAddress>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
+  <languages uuid="f4c7119b-2aac-4236-addb-b7fecba2b4ca">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <comment></comment>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Товары</catalogs>
+</mdclass:Configuration>
